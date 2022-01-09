@@ -17,3 +17,5 @@ _Punto de vista de usuario_
 | /badge/done/green | Poder comunicarse con las empresas premium fácilmente (WhatsApp, email, etc) |
 | /badge/done/green | Búsqueda por código postal, por nombre |
 | /badge/done/green | Búsqueda por geolocalización |
+
+https://badgen.net/badge/:subject/:status/:color?icon=github
